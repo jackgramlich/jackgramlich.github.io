@@ -9,22 +9,20 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
-    - icon: instagram
-      text: Instagram
-      href: https://instagram.com
+      href: https://www.linkedin.com/in/jack-gramlich
     - icon: github
-      text: GitHub
-      href: https://github.com
+      text: GitHub 
+      href: https://jackgramlich.github.io
     - icon: file-earmark-pdf
       text: Resumé
-      href: https://GITHUB_USERNAME.github.io/resume-example.pdf
+      href: https://jackgramlich.github.io/ResumeJackGramlich.docx.pdf
     - icon: mailbox
       text: Email
-      href: mailto:YOUR_EMAIL@geneseo.edu
+      href: mailto:jackgramlich2@gmail.com
 
 ---
 
+## About me
 
 Hi there! My name is Jack Gramlich. This is my personal wesbite where you can find updates on my professional career, hobbies,
 and things I just find interesting. I am an Economics and data analtics student.
@@ -34,11 +32,10 @@ in a data science/ analytics field. I am also very intrested in machine learning
 ## Education
 
 State University of New York at Geneseo | Geneseo, NY <br>
-B.S. in Data Analytics | Aug 2022 - May 2026 <br>
-Minor in Business Administration 
+Istituto Lorenzo de'​ Medici | Florence, Italy <br>
+STEM-Certified Economics degree | Aug 2020 - Dec 2024 <br>
+Minor in Data Analytics
 
-## Experience
 
-Starbucks Analytics | Data Analyst Intern | May 2024 - Aug 2024
 
 
