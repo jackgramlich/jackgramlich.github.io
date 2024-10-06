@@ -7,4 +7,7 @@ categories: [Personal]
 
 ## Welcome To my first blog post!
 
-I am writing this as a test
+![](thumbnail.jpg)
+
+
+Olivia, if you found this, I love you
