@@ -12,3 +12,17 @@
 .navbar {
     height: 75px; /* Adjust the height as needed */
 }
+/* Style to center the image and add a border */
+.profile-pic-container {
+  display: flex;
+  justify-content: center; /* Horizontally center */
+  align-items: center;     /* Vertically center */
+  height: 100vh;           /* Full viewport height */
+}
+
+img {
+  max-width: 16em;
+  border: 6px solid #603f77; /* Adds a border around the image */
+  padding: 0px;             /* Adds spacing inside the border */
+  border-radius: 10px;       /* Rounds the corners of the image */
+}

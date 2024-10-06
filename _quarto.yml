@@ -5,7 +5,7 @@ project:
 website:
   title: "Jack Gramlich"
   navbar:
-    # background: "#1c4982"
+    background: "#603f77"
     pinned: true
     left:
       - text: Blog
