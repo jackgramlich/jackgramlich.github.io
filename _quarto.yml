@@ -8,13 +8,10 @@ website:
     # background: "#1c4982"
     pinned: true
     left:
-      - text: Project
-        href: project.qmd
       - text: Blog
         href: blog-listing.qmd
-            
   page-footer: 
-    center: "Powered with GitHub and Quarto<br>© YOUR NAME, 2024"
+    center: "Powered with GitHub and Quarto<br>© Jack Gramlich, 2024"
 
 format:
   html:
