@@ -5,10 +5,6 @@ date: "2024-10-06"
 categories: [Personal]
 ---
 
-Welcome To my first blog post!
+## Welcome To my first blog post!
 
-
-![](thumbnail.jpg)
-
-
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+I am writing this as a test
