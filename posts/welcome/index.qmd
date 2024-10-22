@@ -1,9 +1,9 @@
 ---
-title: "My Data Journey"
+title: "About Me"
 author: "Jack Gramlich"
 date: "2024-10-06"
 categories: [Personal]
-subtitle: "Today marks day 1!"
+subtitle: "Who I am, what are my interests, what are my hobbies, what I want to do with this blog."
 ---
 
 ## Welcome! 
