@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "Jack Gramlich",
     "section": "",
-    "text": "Hi there! My name is Jack Gramlich. This is my personal wesbite where you can find information on my professional career, hobbies, and things I find interesting. I am an Economics and Data Analytics student. I have experience coding in Python & R as well as using excel & gretl for econometric analysis. \nI enoy following financial markets, especially in real-estate, also I have an interest in software engineering. Thus; for my future, I am considering expanding my skills further by pursuing a masters degree in Data Science, or Machine Learning."
+    "text": "Hi there! My name is Jack Gramlich. This is my personal wesbite where you can find information on my professional career, hobbies, and things I find interesting. I am an Economics and Data Analytics student. I have experience coding in Python & R as well as using excel & gretl for econometric analysis. \nI enoy following financial markets, especially in real-estate, also I have an interest in software engineering. Thus; for my future, I am considering expanding my skills further by pursuing a masters degree in Data Science, or Machine Learning.\nChecking out my blog, you fill find information on my projects, research, hobbies, and a more indepth look at my interests."
   },
   {
     "objectID": "index.html#education",
@@ -44,9 +44,9 @@
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
-    "title": "First Blog Post",
+    "title": "My Data Journey",
     "section": "",
-    "text": "Olivia, if you found this, I love you"
+    "text": "I decided to start this blog to document my journey into the data field and to share what I’m learning along the way. Not only will you find my protfolio, but I will have posts relating to my professional career inclduing data techniques I learn, financial market and AI advances that I learn, and posting about my hobbies and updates on other areas of interst I have such as video game development. I’ll be writing about both my successes and challenges, as well as providing insights and practical tips for anyone interested in this space.\n\n\n\nRight now, I’m involved in serveral projects, which I’ll be discussing in future posts:\nData Analytics Projects: I’m working on a few data analysis projects that demonstrate the power of data-driven decision-making. I’ll share my process, the tools I’m using, and lessons learned along the way.\nPortfolio Building: I’m also focused on building a strong personal portfolio to showcase my skills.\nExploring AI: While my primary goal is to deepen my expertise in data, I’m also exploring the possibility of expanding into AI in the future. I’ll occasionally touch on AI-related topics and how I see it intersecting with data analytics.\nHobbies: Currently, I am working on a python script for a small text-based RPG game that I have been slowly learning how to make for a couple of years now. I have always enjoyed building and creating things and am looking forward to the future of what I do in this space.\n\n\n\nIn this blog, I’ll be posting regularly about:\nData Science & Analytics/ Career Development: Insights into building a career in the data field, including challenges and how I’m navigating this fast-evolving industry and my expierence getting a job, working, and developing my skills!\nPersonal Journey: My transition from an economics graduate to a data professional, sharing both the milestones and the hurdles.\nFuture in AI: Updates on my exploration of AI and how I might integrate it into my work over time.\n\n\n\nI’m excited to share my journey with you and hope you find the content useful and inspiring. Whether you’re interested in data science, analytics, or just curious about career development in this space, there will be something here for you. I welcome your feedback, ideas, and questions, so feel free to leave a comment or reach out!\nThanks for stopping by, and stay tuned for more!"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -81,14 +81,14 @@
     "href": "blog-listing.html",
     "title": "Welcome to my Blog!",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nFirst Blog Post\n\n\n\n\n\n\n\n\nOct 6, 2024\n\n\nJack Gramlich\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nMy Data Journey\n\n\nToday marks day 1!\n\n\n\n\n\nOct 6, 2024\n\n\nJack Gramlich\n\n\n3 min\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Jack Gramlich",
     "section": "",
-    "text": "Hi there! My name is Jack Gramlich. This is my personal wesbite where you can find information on my professional career, hobbies, and things I find interesting. I am an Economics and Data Analytics student. I have experience coding in Python & R as well as using excel & gretl for econometric analysis. \nI enoy following financial markets, especially in real-estate, also I have an interest in software engineering. Thus; for my future, I am considering expanding my skills further by pursuing a masters degree in Data Science, or Machine Learning."
+    "text": "Hi there! My name is Jack Gramlich. This is my personal wesbite where you can find information on my professional career, hobbies, and things I find interesting. I am an Economics and Data Analytics student. I have experience coding in Python & R as well as using excel & gretl for econometric analysis. \nI enoy following financial markets, especially in real-estate, also I have an interest in software engineering. Thus; for my future, I am considering expanding my skills further by pursuing a masters degree in Data Science, or Machine Learning.\nChecking out my blog, you fill find information on my projects, research, hobbies, and a more indepth look at my interests."
   },
   {
     "objectID": "posts/welcome/index.html#welcome-to-my-first-blog-post",
@@ -96,5 +96,19 @@
     "title": "First Blog Post",
     "section": "",
     "text": "Olivia, if you found this, I love you"
+  },
+  {
+    "objectID": "posts/welcome/index.html#more-about-me",
+    "href": "posts/welcome/index.html#more-about-me",
+    "title": "Who I am",
+    "section": "",
+    "text": "I decided to start this blog to document my journey into the data field and to share what I’m learning along the way. Whether you’re here to follow my projects, learn more about data science, or just get a sense of how I’m navigating the transition from economics to tech, I hope this blog provides value. I’ll be writing about both my successes and challenges, as well as providing insights and practical tips for anyone interested in this space.\n\n\n\nRight now, I’m involved in several exciting projects, which I’ll be discussing in future posts:\nData Analytics Projects: I’m working on a few data analysis projects that demonstrate the power of data-driven decision-making. I’ll share my process, the tools I’m using, and lessons learned along the way.\nPortfolio Building: I’m also focused on building a strong personal portfolio to showcase my skills. I’ll walk through how I’m setting up my website (this one!) using Quarto and GitHub and share tips for others looking to do the same.\nExploring AI: While my primary goal is to deepen my expertise in data, I’m also exploring the possibility of expanding into AI in the future. I’ll occasionally touch on AI-related topics and how I see it intersecting with data analytics.\n\n\n\nIn this blog, I’ll be posting regularly about:\nData Science & Analytics: Tutorials, project breakdowns, and practical tips for working with data. Career Development: Insights into building a career in the data field, including challenges and how I’m navigating this fast-evolving industry and my expierence getting a job, working, and developing my skills!\nPersonal Journey: My transition from an economics graduate to a data professional, sharing both the milestones and the hurdles.\nFuture in AI: Updates on my exploration of AI and how I might integrate it into my work over time.\n\n\n\nI’m excited to share my journey with you and hope you find the content useful and inspiring. Whether you’re interested in data science, analytics, or just curious about career development in this space, there will be something here for you. I welcome your feedback, ideas, and questions, so feel free to leave a comment or reach out!\nThanks for stopping by, and stay tuned for more!"
+  },
+  {
+    "objectID": "posts/welcome/index.html#welcome",
+    "href": "posts/welcome/index.html#welcome",
+    "title": "My Data Journey",
+    "section": "",
+    "text": "I decided to start this blog to document my journey into the data field and to share what I’m learning along the way. Not only will you find my protfolio, but I will have posts relating to my professional career inclduing data techniques I learn, financial market and AI advances that I learn, and posting about my hobbies and updates on other areas of interst I have such as video game development. I’ll be writing about both my successes and challenges, as well as providing insights and practical tips for anyone interested in this space.\n\n\n\nRight now, I’m involved in serveral projects, which I’ll be discussing in future posts:\nData Analytics Projects: I’m working on a few data analysis projects that demonstrate the power of data-driven decision-making. I’ll share my process, the tools I’m using, and lessons learned along the way.\nPortfolio Building: I’m also focused on building a strong personal portfolio to showcase my skills.\nExploring AI: While my primary goal is to deepen my expertise in data, I’m also exploring the possibility of expanding into AI in the future. I’ll occasionally touch on AI-related topics and how I see it intersecting with data analytics.\nHobbies: Currently, I am working on a python script for a small text-based RPG game that I have been slowly learning how to make for a couple of years now. I have always enjoyed building and creating things and am looking forward to the future of what I do in this space.\n\n\n\nIn this blog, I’ll be posting regularly about:\nData Science & Analytics/ Career Development: Insights into building a career in the data field, including challenges and how I’m navigating this fast-evolving industry and my expierence getting a job, working, and developing my skills!\nPersonal Journey: My transition from an economics graduate to a data professional, sharing both the milestones and the hurdles.\nFuture in AI: Updates on my exploration of AI and how I might integrate it into my work over time.\n\n\n\nI’m excited to share my journey with you and hope you find the content useful and inspiring. Whether you’re interested in data science, analytics, or just curious about career development in this space, there will be something here for you. I welcome your feedback, ideas, and questions, so feel free to leave a comment or reach out!\nThanks for stopping by, and stay tuned for more!"
   }
 ]
