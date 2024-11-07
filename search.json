@@ -88,7 +88,7 @@
     "href": "index.html#about-me",
     "title": "Welcome to my Wesbite!",
     "section": "About me",
-    "text": "About me\nHi there! I’m Jack Gramlich. Welcome to my personal website, where you can explore my portfolio featuring my projects, and things I,m currently learning. You can view my projects under “My Work”. I’m a recent Economics and Data Analytics graduate with experience in Python and R for exploratory data analysis, data visualization, web scraping, and machine learning, using libraries such as Scikit-learn and Keras. I’m also skilled in econometric analysis and predictive modeling with Excel and Gretl.\nIn my free time, I enjoy tracking financial markets, staying informed on global economic news, and analyzing sports statistics.\nCurrently, I am looking to work in an analytical field such as data/ business analytics. Eventually, I want to find a role in Data Science and specialize in Machine Learning. I am also considering advancing my education and getting a MS Applied Statistics or MS Data Science degree."
+    "text": "About me\nHi there! I’m Jack Gramlich. Welcome to my personal website, where you can explore my portfolio featuring my projects, and things I’m currently learning. I’m a recent Economics and Data Analytics graduate with experience in Python and R for exploratory data analysis, data visualization, web scraping, and machine learning, using libraries such as Scikit-learn and Keras. I’m also skilled in econometric analysis and predictive modeling with Excel and Gretl.\nIn my free time, I enjoy tracking financial markets, staying informed on global economic news, and analyzing sports statistics.\nCurrently, I am looking to work in an analytical field such as data/ business analytics. Eventually, I want to find a role in Data Science and specialize my skills in Machine Learning. I’m also considering advancing my education by getting an MS in Applied Statistics or MS in Data Science."
   },
   {
     "objectID": "posts/welcome/index.html#welcome-to-my-first-blog-post",
@@ -131,5 +131,12 @@
     "title": "Welcome to my Wesbite!",
     "section": "",
     "text": "My Projects"
+  },
+  {
+    "objectID": "posts/welcome/index.html#currently-updating",
+    "href": "posts/welcome/index.html#currently-updating",
+    "title": "About Me",
+    "section": "Currently Updating",
+    "text": "Currently Updating"
   }
 ]

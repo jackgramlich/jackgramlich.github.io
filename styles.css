@@ -24,7 +24,7 @@
 
 img {
   max-width: 16em;
-  border: 6px solid #603f77; /* Adds a border around the image */
+  border: 6px solid #202A44; /* Adds a border around the image */
   padding: 0px;             /* Adds spacing inside the border */
   border-radius: 10px;       /* Rounds the corners of the image */
 }
