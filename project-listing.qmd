@@ -1,15 +1,15 @@
 ---
-title: "Welcome to my Blog!<br><br>"
+title: "Welcome to my projects!<br><br>"
 listing:
   contents: posts
-  type: default
+  type: grid
   sort:
     - "date desc"
     - "title desc"
   categories: true
   sort-ui: true
-  filter-ui: true
-  fields: [image, date, title, author, reading-time]
+  filter-ui: false
+  fields: [image, date, title, author]
 
 page-layout: full
 ---

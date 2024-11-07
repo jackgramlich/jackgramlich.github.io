@@ -3,13 +3,11 @@ project:
   output-dir: "." 
 
 website:
-  title: "Jack Gramlich"
+  title: "Jack Gramlich - Projects and Portfolio"
   navbar:
     background: "#603f77"
     pinned: true
-    left:
-      - text: Blog
-        href: blog-listing.qmd
+
   page-footer: 
     center: "Powered with GitHub and Quarto<br>© Jack Gramlich, 2024"
 

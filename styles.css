@@ -1,7 +1,9 @@
 /* css styles */
 
 .nav-title{
-  font-family: fantasy
+  font-family: fantasy;
+  text-align: center;
+  margin: 0 auto;
 }
 
 /* to fix the width of body and navbar with invisible scrollbar */
@@ -25,4 +27,14 @@ img {
   border: 6px solid #603f77; /* Adds a border around the image */
   padding: 0px;             /* Adds spacing inside the border */
   border-radius: 10px;       /* Rounds the corners of the image */
+}
+.navbar-brand-container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.navbar-title {
+  text-align: center;
+  margin: 0 auto;
 }

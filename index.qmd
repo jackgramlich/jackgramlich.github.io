@@ -1,11 +1,12 @@
 ---
-title: "Jack Gramlich" 
+title: "Welcome to my Wesbite!" 
+subtitle: "Here, you can find my personal links, my projects page, and information about me."
 about:
   template: solana  # jolla  trestles  solana  marquee  broadside
   image: img/profile.png
   image-width: 16em
-  image-shape: rounded # rectangle  round  rounded
-  
+  image-shape: rounded # rectangle  round  roundedZ
+
   links:
     - icon: linkedin
       text: LinkedIn
@@ -19,17 +20,19 @@ about:
     - icon: mailbox
       text: Email
       href: mailto:jackgramlich2@gmail.com
+  
+--- 
 
----
+:::{.btn .btn-primary style="font-size: 1.2em; padding: 0.4em 1em; background-color: #754c9a; color: #d3d3d3; border-radius: 3px; font-weight: 500; display: inline-block; margin-top: 1.5em; margin-bottom: 1.5em; text-decoration: none; font-family: Arial, sans-serif; text-align: center; transition: background-color 0.3s ease; line-height: 1.5em;" onmouseover="this.style.backgroundColor='#8b5fbf'" onmouseout="this.style.backgroundColor='#754c9a'"}
+<a href="project-listing.html" style="color: #FFFFFF; text-decoration: none; display: inline-block; width: 100%; position: relative; top: 0.2em;">My Projects</a>
+:::
 
-## About me
+## About me - Skills
 
-Hi there! My name is Jack Gramlich. This is my personal wesbite where you can find information on my professional career, hobbies,
-and things I find interesting. I am an Economics and Data Analytics student. I have experience coding in Python & R as well as using excel & gretl for econometric analysis. <br>
+Hi there! My name is Jack Gramlich. This is my personal wesbite where you can view my blog which contains on my projects (under "work" in the navigation bar), hobbies, and updates on my professional career. I am an Economics and Data Analytics student. I have experience coding in Python & R for explanatory data analysis, data visulization, web scraping, and machine learning modeling using Scikit-learning package & Keras package. I also have expierence using excel & gretl for econometric analysis and predictive modeling. <br>
  
-I enoy following financial markets, especially in real-estate, also I have an interest in software engineering. Thus; for my future, I am considering expanding my skills further by pursuing a masters degree in Data Science, or Machine Learning.
+In my free time, I like following financial markets, reading-up on global economic news, and following sport statistics. 
 
-Checking out my blog, you fill find information on my projects, research, hobbies, and a more indepth look at my interests.
 
 ## Education
 
