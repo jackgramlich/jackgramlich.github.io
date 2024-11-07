@@ -1,9 +1,9 @@
 ---
-title: "About Me"
+title: "World Happiness Report - Econometric Research"
 author: "Jack Gramlich"
-date: "2024-10-06"
-categories: [Personal]
-subtitle: "Who I am, what are my interests, what are my hobbies, what I want to do with this blog."
+date: "2024-5-10"
+categories: [Research]
+subtitle: "Completed econometrics undergraduate research project based on the World Happiness Report data from 2023"
 ---
 
 ## Welcome! 

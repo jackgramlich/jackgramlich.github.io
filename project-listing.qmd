@@ -1,5 +1,6 @@
 ---
-title: "Welcome to my projects!<br><br>"
+title: "Welcome to my portfolio page!<br><br>"
+subtitle: "Listed below are different projects I have worked on ranging from econometrics, data anlytics/ visualization and ML modeling. Also, I will be adding and working on projects that relate to new techniques and any theoretical/ practical information I learn about."
 listing:
   contents: posts
   type: grid
