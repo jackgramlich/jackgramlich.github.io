@@ -1,6 +1,6 @@
 ---
 title: "Welcome to my Wesbite!" 
-subtitle: "Here, you can find my personal links, my projects page, and information about me."
+subtitle: "Here, you can find my social links, Resumé, projects page, and information about me."
 about:
   template: solana  # jolla  trestles  solana  marquee  broadside
   image: img/profile.png
@@ -24,21 +24,23 @@ about:
 --- 
 
 :::{.btn .btn-primary style="font-size: 1.2em; padding: 0.4em 1em; background-color: #754c9a; color: #d3d3d3; border-radius: 3px; font-weight: 500; display: inline-block; margin-top: 1.5em; margin-bottom: 1.5em; text-decoration: none; font-family: Arial, sans-serif; text-align: center; transition: background-color 0.3s ease; line-height: 1.5em;" onmouseover="this.style.backgroundColor='#8b5fbf'" onmouseout="this.style.backgroundColor='#754c9a'"}
-<a href="project-listing.html" style="color: #FFFFFF; text-decoration: none; display: inline-block; width: 100%; position: relative; top: 0.2em;">My Projects</a>
+<a href="project-listing.html" style="color: #FFFFFF; text-decoration: none; display: inline-block; width: 100%; position: relative; top: 0.35em;">My Work</a>
 :::
 
-## About me - Skills
+## About me
 
-Hi there! My name is Jack Gramlich. This is my personal wesbite where you can view my blog which contains on my projects (under "work" in the navigation bar), hobbies, and updates on my professional career. I am an Economics and Data Analytics student. I have experience coding in Python & R for explanatory data analysis, data visulization, web scraping, and machine learning modeling using Scikit-learning package & Keras package. I also have expierence using excel & gretl for econometric analysis and predictive modeling. <br>
- 
-In my free time, I like following financial markets, reading-up on global economic news, and following sport statistics. 
+Hi there! I'm Jack Gramlich. Welcome to my personal website, where you can explore my portfolio featuring my projects, and things I,m currently learning. You can view my projects under "My Work". I’m a recent Economics and Data Analytics graduate with experience in Python and R for exploratory data analysis, data visualization, web scraping, and machine learning, using libraries such as Scikit-learn and Keras. I’m also skilled in econometric analysis and predictive modeling with Excel and Gretl.
+
+In my free time, I enjoy tracking financial markets, staying informed on global economic news, and analyzing sports statistics.
+
+Currently, I am looking to work in an analytical field such as data/ business analytics. Eventually, I want to find a role in Data Science and specialize in Machine Learning. I am also considering advancing my education and getting a MS Applied Statistics or MS Data Science degree.
 
 
 ## Education
 
 -State University of New York at Geneseo | Geneseo, NY <br>
 
--Istituto Lorenzo de'​ Medici | Florence, Italy <br>
+-Istituto Lorenzo de' ​ Medici | Florence, Italy <br>
 
 STEM-Certified Economics degree | Aug 2020 - Dec 2024 <br>
 Minor in Data Analytics
