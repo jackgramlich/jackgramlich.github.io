@@ -6,9 +6,11 @@ categories: [Research]
 subtitle: "Completed econometrics undergraduate research project based on the World Happiness Report data from 2023"
 ---
 
-## Welcome! 
+## Welcome!
 
 ![](thumbnail.jpg)
 
 
-## Currently Updating
+## Below is a link to my econometrics research on the World Happiness report data:
+
+[Full Research Paper](EconometricsResearchPaper.pdf)
