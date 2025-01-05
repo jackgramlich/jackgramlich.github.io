@@ -16,7 +16,7 @@ about:
       href: https://jackgramlich/jackgramlich.github.io
     - icon: file-earmark-pdf
       text: Resumé
-      href: https://jackgramlich.github.io/ResumeJackGramlich.docx.pdf
+      href: https://jackgramlich.github.io/ResumeJackGramlich.pdf
     - icon: mailbox
       text: Email
       href: mailto:jackgramlich2@gmail.com
