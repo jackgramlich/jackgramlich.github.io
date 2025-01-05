@@ -144,6 +144,13 @@
     "href": "posts/welcome/index.html#below-is-a-link-to-my-econometrics-research-on-the-world-happiness-report-data",
     "title": "World Happiness Report - Econometric Research",
     "section": "Below is a link to my econometrics research on the World Happiness report data:",
-    "text": "Below is a link to my econometrics research on the World Happiness report data:\nFull Research Paper"
+    "text": "Below is a link to my econometrics research on the World Happiness report data:\nWorld Happiness Report Research Paper\nData Source: World Happiness Report 2023 dataset."
+  },
+  {
+    "objectID": "posts/welcome/index.html#summary-and-findings",
+    "href": "posts/welcome/index.html#summary-and-findings",
+    "title": "World Happiness Report - Econometric Research",
+    "section": "Summary and findings:",
+    "text": "Summary and findings:\nObjective: Analyze how economic policies, social factors, and institutions influence national happiness using econometric modeling.\nKey Variables:\n\nPositive Impact on Happiness: GDP per capita, social support, freedom to make life choices, and low perceptions of corruption.\nNo Statistically Significant Impact: Healthy life expectancy and generosity.\n\nModel Performance:\n\nR²: 0.828, indicating the model explains 82.8% of the variance in happiness scores.\nAdjusted R²: 0.820. No case of overfitting."
   }
 ]

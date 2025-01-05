@@ -6,11 +6,28 @@ categories: [Research]
 subtitle: "Completed econometrics undergraduate research project based on the World Happiness Report data from 2023"
 ---
 
-## Welcome!
+## Econometrics Project - WHR
 
 ![](thumbnail.jpg)
 
 
 ## Below is a link to my econometrics research on the World Happiness report data:
 
-[Full Research Paper](EconometricsResearchPaper.pdf)
+[World Happiness Report Research Paper](EconometricsResearchPaper.pdf)
+
+Data Source: World Happiness Report 2023 dataset.
+
+## Summary and findings:
+
+Objective: Analyze how economic policies, social factors, and institutions influence national happiness using econometric modeling.
+
+Key Variables:
+
+- Positive Impact on Happiness: GDP per capita, social support, freedom to make life choices, and low perceptions of corruption.
+- No Statistically Significant Impact: Healthy life expectancy and generosity.
+
+Model Performance:
+
+- R²: 0.828, indicating the model explains 82.8% of the variance in happiness scores.
+- Adjusted R²: 0.820. No case of overfitting.
+
